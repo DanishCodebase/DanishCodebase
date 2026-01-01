@@ -160,6 +160,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### 💡 *"Building scalable solutions with clean code and modern workflows"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=DanishCodebase&color=blueviolet&style=flat-square)
 
 </div>
